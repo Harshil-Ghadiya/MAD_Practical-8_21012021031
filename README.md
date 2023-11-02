@@ -11,7 +11,7 @@ Create an Alarm application by using service & BroadcastReceiver by following be
 
 4.Add android.permission.SCHEDULE_EXACT_ALARM Permission in Manifest file
 
-Ans:-
+<b>Ans:-</b>
 
 Broadcast in android is the system-wide events that can occur when the device starts, when a message is received on the device 
 or when incoming calls are received, or when a device goes to airplane mode, etc. Broadcast Receivers are used to respond to
@@ -24,7 +24,7 @@ apps" list. Broadcast receivers are the third kind of component. Like services, 
 with you directly. But unlike services, they can't stay running or perform long tasks: they exist to respond to events. And unlike
 activities and services, more than one broadcast receiver can be started in one go.
 
-<b>Output></b>
+<b>Output</b>
 
 <b>Light Theme:</b>
 
