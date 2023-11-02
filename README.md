@@ -40,7 +40,11 @@ activities and services, more than one broadcast receiver can be started in one 
 
 
 
+
+
+
 ![create cancle light theme](https://github.com/Harshil-Ghadiya/MAD_Practical-8_21012021031/assets/122811629/72e9f88b-0444-40b1-9f3e-cefae3cce80c)
+
 
 
 
@@ -48,7 +52,9 @@ activities and services, more than one broadcast receiver can be started in one 
 
 
 
+
 ![Dark Theme create alarm](https://github.com/Harshil-Ghadiya/MAD_Practical-8_21012021031/assets/122811629/af9a570d-87ac-4a44-b87a-43b75c348b9c)
+
 
 
 
